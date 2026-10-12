@@ -1,0 +1,23 @@
+{
+  "name": "compute",
+  "version": "1.0.0",
+  "description": "Something Man",
+  "homepage": "https://github.com/Saku-mzi/Compute#readme",
+  "bugs": {
+    "url": "https://github.com/Saku-mzi/Compute/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saku-mzi/Compute.git"
+  },
+  "license": "MIT",
+  "author": "Sakumzi Sipamla",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  }
+}
